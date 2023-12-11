@@ -7,7 +7,7 @@ Pig Game is a fun, interactive dice game I built during a JavaScript Bootcamp. I
 No installation is necessary. You can play the game directly in your web browser. Just clone or download this repository, and open index.html in your browser.
 
 ```
-git clone https://github.com/yourusername/PigGame.git
+git clone https://github.com/theomilll/PigGame.git
 cd PigGame
 open index.html
 ```
